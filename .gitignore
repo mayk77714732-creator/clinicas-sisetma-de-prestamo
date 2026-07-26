@@ -1,0 +1,59 @@
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Entornos virtuales
+venv/
+env/
+ENV/
+.venv
+
+# Archivos de base de datos
+*.db
+*.sqlite
+*.sqlite3
+*.db-journal
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos de contador y licencia (¡IMPORTANTE!)
+.contador_sistema.dat
+.licencia_activada.dat
+
+# Archivos de respaldo
+*.backup
+*.corrupto
+*.zip
+*.rar
+
+# Archivos de IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de build
+build/
+dist/
+*.spec
+*.exe
+*.msi
+
+# Archivos de logs
+*.log
+sistema.log
+
+# Archivos temporales
+tmp/
+temp/
+*.tmp
+
+# Archivos de reportes (pueden ser grandes)
+reportes/
+respaldos/
